@@ -13,11 +13,10 @@ print("USA")
 
 #Number Three
 print(type(10)) #integer
-print(type(9.8))
-print(type(4-4j))
-print(type(['Will,Apple,Frog']))
-print(type('Will'))
-print(type('False'))
-
+print(type(9.8)) #float
+print(type(4-4j)) #complex
+print(type(['Will,Apple,Frog'])) #list
+print(type('Will')) #string
+print(type(False)) #boolean
 
 #Examples
